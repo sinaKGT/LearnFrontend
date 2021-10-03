@@ -1,2 +1,7 @@
 *.vscode
 .vscode
+.fandogh
+workspace.tar.gz
+Dockerfile
+fandogh.yml
+.fandoghignore
